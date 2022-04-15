@@ -4,7 +4,6 @@ heapq: 멀티 쓰레드 지원 X -> 빠르다.
 파이썬은 멀티쓰레드보다 멀티프로세스를 더 선호 -> priorityQueue 의미 X
 """
 
-
 import heapq
 
 if __name__ == '__main__':
